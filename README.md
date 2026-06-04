@@ -26,7 +26,7 @@ Built with **Figma prototypes** and designed for students, young professionals, 
 - Community & Reviews
 
 ## 👤 User Persona
-- **Jean Claude (23)** – University student & part-time cinema blogger  
+- **Aime (23)** – University student & part-time cinema blogger  
   Goals: Discover trending movies, book tickets easily, share reviews with peers.
 
 ## ⚡ How to Run
